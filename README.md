@@ -1,2 +1,2 @@
-# QRead
-A project made to read QR's in an extremely simple way 
+# TensorFlow tutorials
+A project made to understand tensorflow
