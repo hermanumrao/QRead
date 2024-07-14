@@ -1,2 +1,2 @@
-# TensorFlow tutorials
-A project made to understand tensorflow
+# pyTorch-cpp-Tutorials
+A project made to Learn pytorch on cpp
