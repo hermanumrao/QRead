@@ -1,0 +1,3 @@
+/home/herman/workspace/pyTorch-cpp-Tutorials/basics/03_xor_perception/build/CMakeFiles/xorNet.dir
+/home/herman/workspace/pyTorch-cpp-Tutorials/basics/03_xor_perception/build/CMakeFiles/edit_cache.dir
+/home/herman/workspace/pyTorch-cpp-Tutorials/basics/03_xor_perception/build/CMakeFiles/rebuild_cache.dir
